@@ -12,3 +12,5 @@ E (Key) - Inventory<br>
 NW.dll needed to run the build.<br>
 https://www.dllme.com/dll/files/nw
 <br><br>
+
+![mine-print](https://github.com/user-attachments/assets/fbe0f83d-bf4e-478b-b0bd-220437eee12c)
