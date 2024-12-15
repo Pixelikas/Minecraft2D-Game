@@ -1,6 +1,6 @@
 # Minecraft2D-Clone
 Minecraft (Clone) 2D game developed using HTML, JavaScript and CSS.<br>
-The game was developed using Construct 2 in 2019.<br><br>
+The game was developed using Construct 2 in 2019.<br>
 
 A-D (Left, Right) -> Move<br>
 W (Up) -> Attack<br>
