@@ -13,4 +13,5 @@ NW.dll needed to run the build.<br>
 https://www.dllme.com/dll/files/nw
 <br><br>
 
-![mine-print](https://github.com/user-attachments/assets/fbe0f83d-bf4e-478b-b0bd-220437eee12c)
+![mine-print](https://github.com/user-attachments/assets/2b485be3-8927-49cd-8267-04d062aa4d68)
+
